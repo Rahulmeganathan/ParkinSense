@@ -1,5 +1,8 @@
 # ParkiSense: AI-Powered Speech Therapy for Parkinson's Disease
 
+<img width="1024" height="1024" alt="ChatGPT Image Aug 7, 2025, 04_11_48 AM 1" src="https://github.com/user-attachments/assets/12d93876-48e2-44ef-9772-52483999b194" />
+
+
 ## **Video Demo**
 **3-Minute Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=no0cSgOflVU)
 
